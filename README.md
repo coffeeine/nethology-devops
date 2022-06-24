@@ -10,5 +10,5 @@ override.tf.json
 *_override.tf
 *_override.tf.json 
 Так как они используются локально.
-
 А также конфигурационные файлы .terraformrc, terraform.rc 
+###
